@@ -1,6 +1,6 @@
 # TASK MANAGER UI FLUTTER
 
-Flutter project.
+project.
 
 ## Getting Started
 
