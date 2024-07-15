@@ -1,6 +1,6 @@
 # TASK MANAGER UI FLUTTER
 
-A new Flutter project.
+new Flutter project.
 
 ## Getting Started
 
