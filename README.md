@@ -1,6 +1,5 @@
 # TASK MANAGER UI FLUTTER
 
-.
 
 ## Getting Started
 
