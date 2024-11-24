@@ -1,6 +1,6 @@
 #  TASK MANAGER UI FLUTTER
 
-A few resources to get you started if this is your first Flutter project
+A few resources to get you started if this is your first Flutter
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 
